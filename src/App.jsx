@@ -1,7 +1,7 @@
 
 import './App.css'
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
-import Home from './pages/home/Home.jsx'
+import Home from './pages/'
 import CreateProduct from './pages/CreateProduct'
 import EditProduct from './pages/EditProduct'
 import Blog from './pages/blog'
