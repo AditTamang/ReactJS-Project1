@@ -1,11 +1,11 @@
 
 import './App.css'
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
-import Home from './pages/home'
-import CreateProduct from './pages/CreateProduct'
-import EditProduct from './pages/EditProduct'
-import Blog from './pages/blog'
-import SingleProduct from './pages/SingleProduct'
+import Home from './pages/home/Home'
+import CreateProduct from './pages/create/CreateProduct'
+import EditProduct from './pages/edit/EditProduct'
+import Blog from './pages/blog/Blog'
+import SingleProduct from './pages/single/SingleProduct'
 import ProductForm from './components/ProductForm'
 
 
